@@ -1,0 +1,10 @@
+# Montecarlo en Python
+### Ejecucion
+`python montecarlo.py`
+
+Al ejecutar este script se devolvera:
+- Grafico de distribucion normal
+- Grafico de distribucion acumulada
+- Imprime media, varianza y desviacion
+- Imprime ambas distribuciones en consola
+Las imagenes seran guardadas en la raiz del proyecto.

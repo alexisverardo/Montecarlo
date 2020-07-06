@@ -1,0 +1,21 @@
+# Montecarlo en Python
+
+## Definicion de funciones y explicacion de codigo
+
+Funcion **readAndTransformTxt**
+ Lectura del archivo txt para tener los datos de las visitas y retornarlos en un array
+
+Funcion **datosEstadisticos** (entrada -> array con las visitas)
+ Devuelve media, varianza y desvio.
+
+Funcion **distribucionNormal*  (entrada -> array con las visitas)
+ Devuelve la distribucion normal.
+
+Funcion **distribucionAcumulada**  (entrada -> array devuelto por la funcion distribucionNormal)
+ Devuelve la distribucion acumulada.
+
+Funcion **graficoNormal** (entrada -> array devuelto por la funcion distribucionNormal)
+ Genera la imagen del grafico de distribucion normal.
+
+Funcion **graficoNormal** (entrada -> array devuelto por la funcion distribucionAcumulada)
+ Genera la imagen del grafico de distribucion acumulada.

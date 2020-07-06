@@ -1,0 +1,10 @@
+# Montecarlo en Python
+# Instalacion
+
+### Prerequisitos
+- Pyhon.
+- Matplotlib
+- math
+
+### Ejecucion
+`python montecarlo.py`
